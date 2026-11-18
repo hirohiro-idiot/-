@@ -1,0 +1,7 @@
+{
+  "durationMinutes": 10,
+  "difficulty": "normal",
+  "intervalSeconds": {"easy": 45, "normal": 25, "hard": 12},
+  "speech": false,
+  "sound": true
+}
